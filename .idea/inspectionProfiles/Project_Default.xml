@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tarea3.profesores.views.rest_framework" />
+          <option value="tarea3.profesores.urls.*" />
+          <option value="tarea3.tarea3.settings.*" />
+          <option value="semana6.comentarios.models.publicaciones" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
